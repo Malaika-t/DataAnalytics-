@@ -1,0 +1,133 @@
+SURVEY QUESTION 1: "What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?"
+
+1. What conclusion can you reach about the responses to this question?
+Almost every student plan to use that time to get ready like charge device, log into Zoom, have materials ready to take notes, and review previous notes. Commonly, the responses include checking technology, having notebooks nearby, and mentally preparing. A few responses were vague too. 
+
+2. Is the default summary or visualization helpful? How could it be improved?
+It was helpful but it could be improved by grouping responses into categories for example; tech prep, mental prep, notes taking etc.
+
+3. For questions with an "Other" option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+This was not applicable here as it was an open-ended written response question, not a multiple-choice with an "Other" option.
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+Its hard to find any trend or pattern as the responses vary widely in length and specificity. Some answers are one word, others are multiple sentences. Grouping them into meaningful categories would require coding or natural language processing, you cannot just count values like you would with a multiple-choice question. 
+
+5. Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+In a future survey, convert it into a multiple-choice questions to make trends or patterns easier to identify or analyze.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SURVEY QUESTION 2: "Do you have an external keyboard and mouse?"
+
+1. What conclusion can you reach about the responses to this question?
+The majority of students answered Yes, though a handful said No. A couple of responses were indicating some students have partial setups like either a mouse or keyboard. 
+
+2. Is the default summary or visualization helpful? How could it be improved?
+A simple bar chart of Yes/No would be helpful here, the text responses complicate it. 
+
+3. For questions with an "Other" option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+Responses with an "Other" option were like "keyboard yes but not mouse but can get one" and "Just a mouse" show up as text entries in the raw data column. These are tricky because they do not fit into either Yes or No and require manual interpretation before they can be counted.
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+This was not applicable here. It was mostly a Yes/No question, so trends are easier to notice than with written responses.
+
+5. Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+In a future survey, make it a multiple-choice question with clear options, for example: "Yes, both keyboard and mouse", "Yes, keyboard only", "Yes, mouse only", "No". This eliminates ambiguous write-in answers.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SURVEY QUESTION 3: "Do you have a second monitor connected to your computer?"
+
+1. What conclusion can you reach about the responses to this question?
+Most students have a second monitor, but several do not. Some use a second laptop or iPad instead.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+A pie or bar chart of Yes/No would be useful because some answers make it messy and inaccurate. 
+
+3. For questions with an "Other" option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+Entries in "Other "option are tricky because they are technically not Yes or No, and each one requires to be analyzed in order to categorize it.
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+Not applicable here, mostly structured, though the open-text nature of the question created inconsistencies and its hard to find any trend or pattern in the answers provided.
+ 
+5. Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+In a future survey, make it a multiple-choice question with specific options, for example: "Yes, a dedicated monitor", "Yes, a second laptop", "Yes, a tablet/iPad", "No, but I plan to get one", "No". This shows the student setups more accurately.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SURVEY QUESTION 4: "How do you plan to take notes for this class - in a doc on your computer, with pen and paper, or something else?"
+
+1. What conclusion can you reach about the responses to this question?
+The response is split, with pen and paper being the most common method, followed by computer, with a few using an iPad or both. No single method dominates completely.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+A bar chart would be reasonably helpful here since the responses are fairly consistent. However, variations in capitalization and phrasing would cause problems in automated counting, making the chart inaccurate without data cleaning first.
+
+3. For questions with an "Other" option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+Entries in "Other "option appear as non-standard entries in the raw data. These are tricky because they represent valid but uncategorized responses that would be missed or miscounted in a standard summary.
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+A written response produces inconsistencies in capitalization and phrasing that make automated analysis harder.  For example: "both" and "Both" would be consider as different responses by a computer.
+
+5. Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+In a future survey, make it a multiple-choice question with clear, standardized choices, for example: "Pen and paper", "On my computer", "On a tablet", "Both", "On a mobile phone". This would make counting and analysis straightforward.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SURVEY QUESTION 5: "What is one question that you have right now, about this course generally or about a specific topic we'll be talking about?"
+
+1. What conclusion can you reach about the responses to this question?
+Students are most curious about SQL and Python, tutoring and support availability, capstone project expectations, and how to apply data analytics in the real world. Several responded as "N/A" or "Nothing as of now," suggesting not everyone had questions at that point in the course.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+No, as it is just a raw list of written responses with no grouping. It is very hard to spot any trends or patterns without manually categorizing it. Topic grouping would make it far more useful.
+
+3. For questions with an "Other" option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+Not applicable here, this is fully open-ended, so all responses are written and unique. The tricky part is that blank responses must be distinguished from meaningful answers.
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+The biggest challenge is that every response is unique. Some are thoughtful and specific but others are vague or blank. Without manually categorizing, you cannot summarize trends numerically.
+
+5. Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+This could stay open-ended, but adding a category into the question, for example: "My question is about: Tools & Software / Assignments & Projects / Support & Resources / Career / Others" would make it much easier to analyze while still having record of individual questions.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ADDITIONAL QUESTIONS (6-9):
+
+6. Is there anything that surprised you about the survey responses?
+Yes, a few things stood out. First, the range of preparedness routines in Question 1 was wide: some students described very detailed setups while others gave one-word answers, suggesting very different levels of engagement with the question. Second, it was surprising how many students already have a second monitor. Third, the number of students who had no questions yet in Question 5 was notable - it may suggest they had not yet fully engaged with the course material, or they were simply holding off until they knew more.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions you are also curious about?
+From Question 1, the idea of logging into Zoom early and reviewing notes from the previous class is something worth adopting as it seems like a practical way to reduce stress and start focused. From Question 5, I am also curious about how deeply we will go into SQL and Python, and whether there will be opportunities to practice skills outside of class hours.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+Yes, the variety of note-taking methods suggests it would help to provide notes or slides digitally to students. The questions about SQL and Python suggest students want clearer upfront expectations about the curriculum scope. The interest in tutoring and support resources suggests those should be made very visible and easy to access from day one. Also, some students have limited tech setups, so the instructor should avoid assuming everyone has the same workspace and should be mindful of how instructions are given for screen layout and multitasking.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not?
+I think it was helpful because anonymity likely encouraged more honest answers. Students may have been more willing to admit they lack certain equipment or have concerns about the course difficulty without fear of judgment or embarrassment. This approach worked well, keeping opinion and concern questions anonymous.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
