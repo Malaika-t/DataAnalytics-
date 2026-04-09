@@ -1,0 +1,111 @@
+Question 1: Before doing any other investigation, list two or three questions that this infographic and explanation of methodology raise in your mind.
+
+ How did the researchers decide which foods to include as candidates?
+ Does a high google search volume for a food actually mean people are eating it after a breakup?
+ Why was only one year of data used?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question 2: Where can you find Google Trends search data? Provide the URL.
+
+https://trends.google.com/explore?date=2024-02-01%202025-02-28&geo=US&q=%2Fm%2F01k17j%2C%2Fm%2F0cdn1%2C%2Fm%2F02kxsb
+
+https://trends.google.com/trends/explore?q=%2Fm%2F01k17j,%2Fm%2F0cdn1,%2Fm%2F02kxsb&date=2024-02-01%202025-02-28&geo=US&legacy&hl=en
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------Question 3: The article concluded that “milkshakes take the crown as the ultimate breakup food, topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and change the date range to February 1, 2024 through February 28, 2025.
+
+(a) What is the highest peak recorded in the line chart for “Interest over time”?
+The highest peak recorded was 100 around early 2025 (Jan-Feb) on the far right.
+
+(b) What is the lowest dip recorded?
+The lowest point appears to dip to around 64-65 around 2024 (Nov-Dec)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question 4: At the top next to the box for “Milkshake,” there is a plus sign to add another search term. Click the plus sign to add a search for Hamburger (Food).
+
+a) What is the highest peak recorded for searches using Hamburger? What is the lowest dip?
+The highest peak recorded for Hamburger is 100 (April-May). The lowest dip recorded is 70-71 (Oct-Nov).
+
+b) What happened to the line for Milkshake? What do the high and low look like now?
+The Milkshake line dropped to the bottom third of the chart. Hamburger's consistently high interest became the new benchmark, making Milkshake's numbers appear much lower, now appearing flat around 23-35. The highest peak is 35 and lowest is 23.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------Question 5: Why did the line for Milkshake change? Hint: Click on the icon next to “Interest over time” for more information about how trend results are displayed.
+
+Google trends displays search interest on a relative scale from 0 to 100.So,
+100 = the peak interest for that time period 
+50 = half the popularity 
+0 = insufficient data 
+
+The line for Milkshake changes because when Milkshake was only being tracked, Milkshake itself was the highest value, so it was near 100. But once Hamburger was added, it became the new peak, and Milkshake was then rescaled relative to the Hamburger's highest interest. That's why Milkshake line fell, the data didn't change only the reference point did. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question 6: Add a third term to your search, this time for Breakup (Topic).
+
+a) Do you see any patterns that suggest a relationship between searches for Breakup and Hamburger?
+There is little to no relationship between Breakup and Hamburger. The two move independently of each other, no clear correlation exists between Breakup and Hamburger searches. Hamburger is searched at consistently high rates regardless of breakup related search activity. When Breakup interest slightly shifts, hamburger does not follow.
+
+b) How about between Breakup and Milkshake?
+There is a slight positive relationship. The correlation is but noticeable, Milkshake and Breakup appear to follow a more similar pattern as compared to Breakup and Hamburger. It could suggest that Milkshake are somewhat associated with Breakup.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question 7: What does all of this suggest about the reliability of the conclusions reached in the article?
+
+The article's conclusions are only partially reliable.
+Milkshake and Breakup searches follow similar trend pattern, suggesting some connection exists.
+The article only claims milkshakes topped 6 specific states not the whole country, so it could still be true regionally. 
+The data covers only a year, too short to identify a long-term pattern.
+Hamburger is searched more than Milkshake, if comfort food and breakups were linked then milkshake should rank higher. 
+Correlation does not equal causation, similar search patterns do not prove breakups drive milkshake cravings.
+Breakup isn't heavily searched, making it a weak basis for food preference conclusions.
+The article uses only one data source, a reliable conclusion needs multiple data sources.
+Google trends uses relative scaling not real search volumes.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------  
+Question 8: At the upper right of Google Trends, click on the link for “Back to Classic Explore.” Notice that this view includes a section for “Compared breakdown by subregion.”
+
+a) What was the top state by interest for Milkshake?
+   Illinois
+
+b) What was the top state by interest for Hamburger?
+   South Dakota 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
