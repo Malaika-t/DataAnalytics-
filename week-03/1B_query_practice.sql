@@ -23,7 +23,7 @@ SELECT CategoryID, CategoryName
 FROM categories
 WHERE CategoryName = 'Seafood';
 
-SELECT p.ProductID, p.Productname, p.CategoryID
+SELECT p.ProductID, p.Productname, c.CategoryName
 FROM products p
 JOIN categories c 
 ON p.CategoryID = c.CategoryID
@@ -38,7 +38,7 @@ SELECT SupplierID, CompanyName
 FROM suppliers
 WHERE CompanyName = 'Tokyo Traders';
 
-SELECT p.ProductID, p.ProductName, p.SupplierID
+SELECT p.ProductID, p.ProductName, s.CompanyName
 FROM products p
 JOIN suppliers s
 ON p.SupplierID = s.SupplierID
