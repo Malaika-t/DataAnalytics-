@@ -22,7 +22,7 @@ UnitPrice AS 'Price(USD)',
 UnitsInstock AS 'Stock'
 FROM Products;
 
--- Example:
+-- Example 4:
 SELECT CompanyName, City, Country
 FROM Customers
 Where Country = 'Germany';
