@@ -1,5 +1,4 @@
 # Area of a Rectangle
-
 # Birthday: Month = 12 (December), Day = 19
 
 side_a = 12
