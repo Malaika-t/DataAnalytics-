@@ -1,7 +1,7 @@
-# Tip
+# Calculate Tip with input()-Lab 3
 
-bill = 42.50
-tip_percentage = 0.13  # 13% tip
+bill = float(input("How much was your restaurant bill?"))
+tip_percentage = float(input("What tip percentage would you like to give?"))
 
 tip = bill * tip_percentage
 
